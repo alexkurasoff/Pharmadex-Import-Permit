@@ -1,5 +1,5 @@
 # Pharmadex-Import-Permit
-# Subject Area
+## Subject Area
 
 The procedure of the Import Permit Application process is carried out in the form of interactions between the Applicant and the National Medicines Regulatory Authority (NMRA). The goal of the Applicant is to present to the national custom the special import permit, issued by NMRA:
 •	Date of Authorization
@@ -17,7 +17,7 @@ There are following types of an import:
 
 The objective of this project is to develop the software (hereinafter ePerm) that will allow automating Applicant-DNF and internal DNF interactions required for execution Import Permit application process to achieve the acceptable performance for at least the next 5 years. 
 
-# Projects
+## Projects
 
 	The project consists of two sub-projects – client and server.
 	The client project is powered by ReactJS and contains all UX
