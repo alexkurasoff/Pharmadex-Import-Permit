@@ -1,0 +1,12 @@
+/* custom.scss */    
+
+/* import the necessary Bootstrap files */
+@import "Bootstrap";
+
+/* make changes to the !default Bootstrap variables */    
+$enable-shadows: true;
+.custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #283e80;
+    background-color: #283e80;
+  }
